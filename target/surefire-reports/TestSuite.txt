@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 233.514 sec <<< FAILURE!
+AddMailExtentionsTest(com.rabit.qa.tests.Admin_MyAccount_001_AddMailExtentionsTest)  Time elapsed: 13.456 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertTrue(Assert.java:44)
+	at org.testng.Assert.assertTrue(Assert.java:54)
+	at com.rabit.qa.tests.Admin_MyAccount_001_AddMailExtentionsTest.AddMailExtentionsTest(Admin_MyAccount_001_AddMailExtentionsTest.java:61)
+
+AddMailExtentionsTest(com.rabit.qa.tests.Admin_MyAccount_001_AddMailExtentionsTest)  Time elapsed: 13.462 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertTrue(Assert.java:44)
+	at org.testng.Assert.assertTrue(Assert.java:54)
+	at com.rabit.qa.tests.Admin_MyAccount_001_AddMailExtentionsTest.AddMailExtentionsTest(Admin_MyAccount_001_AddMailExtentionsTest.java:61)
+
+AddMailExtentionsTest(com.rabit.qa.tests.Admin_MyAccount_001_AddMailExtentionsTest)  Time elapsed: 13.469 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertTrue(Assert.java:44)
+	at org.testng.Assert.assertTrue(Assert.java:54)
+	at com.rabit.qa.tests.Admin_MyAccount_001_AddMailExtentionsTest.AddMailExtentionsTest(Admin_MyAccount_001_AddMailExtentionsTest.java:61)
+

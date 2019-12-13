@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Test(failed)" verbose="0">
+    <classes>
+      <class name="com.rabit.qa.tests.Admin_MyAccount_001_AddMailExtentionsTest">
+        <methods>
+          <include name="Setup"/>
+          <include name="teardown"/>
+          <include name="ReportStart"/>
+          <include name="copyFile"/>
+          <include name="AddMailExtentionsTest" invocation-numbers="0 1 2"/>
+        </methods>
+      </class> <!-- com.rabit.qa.tests.Admin_MyAccount_001_AddMailExtentionsTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
